@@ -23,9 +23,9 @@ Para executá-lo será necessário seguir os seguintes passos:
     -> executa o arquivo cálculadora_básica.py
 
 - cálculadora_básica.py:
-    -- Utitliza 3 entradas para os cálculos:
+    - Utitliza 3 entradas para os cálculos:
         - primeiro valor
         - segundo valor
         - operação, podendo ser escolhida entre: 1-soma; 2-subtração; 3-divisão; 4-multiplicação
-    -- Retorna o valor da operação escolhida utilizando os valores fornecidos
-    -- Caso queria continuar com o resultado obtido para realizar cálculos em sequência, ao final basta digitar 'S', caso queira finalizar conta bassta digitar 'N'
+    - Retorna o valor da operação escolhida utilizando os valores fornecidos
+    - Caso queria continuar com o resultado obtido para realizar cálculos em sequência, ao final basta digitar 'S', caso queira finalizar conta bassta digitar 'N'.
