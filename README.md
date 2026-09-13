@@ -8,7 +8,7 @@ Bem-vindo! Este programa realiza cálculos simples como uma cálculadora padrão
 Para executá-lo será necessário seguir os seguintes passos:
 
 - Abra seu terminal
-- Navegue pelo terminal para onde este repsitório foi clonado ou baixado
+- Navegue pelo terminal para onde este repositório foi clonado ou baixado
 - execute o seguinte comando no seu terminal:
 
 ```
